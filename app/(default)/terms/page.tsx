@@ -1,6 +1,6 @@
 export default function TermsPage() {
   return (
-    <div className="max-w-2xl py-32 mx-auto">
+    <div className="max-w-2xl py-32 px-4 mx-auto">
       <h1 className="text-3xl font-bold mb-4">Terms of Service</h1>
       <h2 className="text-xl font-semibold mb-6">
         Effective Date: May 27, 2023
